@@ -1,7 +1,7 @@
 {
-  "name": "terbium",
+  "name": "speedr",
   "version": "1.43",
-  "description": "A Instance of Terbium WebOS!",
+  "description": "A Instance of speedr WebOS!",
   "type": "module",
   "main": "index.js",
   "scripts": {
